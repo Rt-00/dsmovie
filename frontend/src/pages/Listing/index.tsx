@@ -1,5 +1,3 @@
-import MovieScore from "components/MovieScore";
-import MovieStars from "components/MovieStars";
 import MovieCard from "components/MovieCard";
 import Pagination from "components/Pagination";
 
